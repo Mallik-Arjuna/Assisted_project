@@ -1,0 +1,6 @@
+1234,Mallikarjuna,22,hyd
+1234,Mallikarjuna,22,hyd
+234,Mallikarjuna,22,hyd
+234,Mallikarjuna,22,hyd
+101,arjun,23,chennai
+102,jabu,25,banglore
